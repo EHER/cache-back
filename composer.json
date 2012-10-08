@@ -5,6 +5,7 @@
         "php": ">=5.4",
         "respect/rest": "0.5.1"
     },
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Alexandre Eher",
