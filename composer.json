@@ -1,0 +1,14 @@
+{
+    "name": "eher/cache-back",
+    "description": "Status code and header dummy",
+    "require": {
+        "php": ">=5.4",
+        "respect/rest": "0.5.1"
+    },
+    "authors": [
+        {
+            "name": "Alexandre Eher",
+            "email": "alexandre@eher.com.br"
+        }
+    ]
+}
