@@ -3,7 +3,7 @@ Status code and header dummy
 
 ##Clone it!
 ```
-git clone <git_hub_url>
+git clone git://github.com/EHER/cache-back.git
 cd cache-back
 ```
 
